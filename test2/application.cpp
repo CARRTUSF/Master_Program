@@ -113,6 +113,9 @@ UINT autoThread (LPVOID pParam)
 
 int main()
 {
+	// Test change delete this line
+
+
 	g.command("SH"); //turn on motors
 	int menuChoice;
 	int mainFlag = 1;
